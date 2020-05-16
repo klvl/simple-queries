@@ -1,0 +1,4 @@
+Id,Name,ProductTypeId,Price,ProductCategoryId
+1,Product1,3,12345,5
+2,Product2,2,12346,4
+3,Product3,4,12347,7
